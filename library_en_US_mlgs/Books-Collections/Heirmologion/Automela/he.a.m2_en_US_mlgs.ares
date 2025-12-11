@@ -3,7 +3,7 @@ A_Resource_Whose_Name = he.a.m2_en_US_mlgs
 heAU.title = "Automela of Mode 2"
 
 heAU.EfsplagchniasYparchousa.greekname = ""
-heAU.EfsplagchniasYparchousa.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.EfsplagchniasYparchousa.melody = "Automelon."
 heAU.EfsplagchniasYparchousa.mode = miscellanea_en_US_mlgs.misc.Mode2
 heAU.EfsplagchniasYparchousa.notmetered = "N/M (As the Mother of God.)"
 heAU.EfsplagchniasYparchousa.name = "As the Mother of God."
@@ -11,7 +11,7 @@ heAU.EfsplagchniasYparchousa.incipit = "…"
 heAU.EfsplagchniasYparchousatext = ""
 
 heAU.GynaikesAkoutisthite.greekname = ""
-heAU.GynaikesAkoutisthite.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.GynaikesAkoutisthite.melody = "Automelon."
 heAU.GynaikesAkoutisthite.mode = miscellanea_en_US_mlgs.misc.Mode2
 heAU.GynaikesAkoutisthite.notmetered = "N/M (O Women, hearken.)"
 heAU.GynaikesAkoutisthite.name = "O Women, hearken."
@@ -19,7 +19,7 @@ heAU.GynaikesAkoutisthite.incipit = "…"
 heAU.GynaikesAkoutisthitetext = ""
 
 heAU.OikosTouEfratha.greekname = ""
-heAU.OikosTouEfratha.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.OikosTouEfratha.melody = "Automelon."
 heAU.OikosTouEfratha.mode = miscellanea_en_US_mlgs.misc.Mode2
 heAU.OikosTouEfratha.notmetered = "N/M (O House of Ephratha.)"
 heAU.OikosTouEfratha.name = "O House of Ephratha."
@@ -27,7 +27,7 @@ heAU.OikosTouEfratha.incipit = "…"
 heAU.OikosTouEfrathatext = ""
 
 heAU.OteEkTouXylou.greekname = ""
-heAU.OteEkTouXylou.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.OteEkTouXylou.melody = "Automelon."
 heAU.OteEkTouXylou.mode = miscellanea_en_US_mlgs.misc.Mode2
 heAU.OteEkTouXylou.notmetered = "N/M (Joseph took You.)"
 heAU.OteEkTouXylou.name = "Joseph took You down."
@@ -35,7 +35,7 @@ heAU.OteEkTouXylou.incipit = "…"
 heAU.OteEkTouXyloutext = ""
 
 heAU.PoioisEffimionStemmasin.greekname = ""
-heAU.PoioisEffimionStemmasin.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.PoioisEffimionStemmasin.melody = "Automelon."
 heAU.PoioisEffimionStemmasin.mode = miscellanea_en_US_mlgs.misc.Mode2
 heAU.PoioisEffimionStemmasin.notmetered = "N/M (How shall we honor.)"
 heAU.PoioisEffimionStemmasin.name = "How shall we honor."
@@ -43,7 +43,7 @@ heAU.PoioisEffimionStemmasin.incipit = "…"
 heAU.PoioisEffimionStemmasintext = ""
 
 heAU.SarkiYpnosas.greekname = ""
-heAU.SarkiYpnosas.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.SarkiYpnosas.melody = "Automelon."
 heAU.SarkiYpnosas.mode = miscellanea_en_US_mlgs.misc.Mode2
 heAU.SarkiYpnosas.notmetered = "N/M (When You had slumbered.)"
 heAU.SarkiYpnosas.name = "When You had slumbered."
@@ -51,7 +51,7 @@ heAU.SarkiYpnosas.incipit = "…"
 heAU.SarkiYpnosastext = ""
 
 heAU.StavrosOFylax.greekname = ""
-heAU.StavrosOFylax.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.StavrosOFylax.melody = "Automelon."
 heAU.StavrosOFylax.mode = miscellanea_en_US_mlgs.misc.Mode2
 heAU.StavrosOFylax.notmetered = "N/M (O Cross, you are the guardian.)"
 heAU.StavrosOFylax.name = "O Cross, you are the guardian."
@@ -59,7 +59,7 @@ heAU.StavrosOFylax.incipit = "…"
 heAU.StavrosOFylaxtext = ""
 
 heAU.TaAnoZiton.greekname = ""
-heAU.TaAnoZiton.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.TaAnoZiton.melody = "Automelon."
 heAU.TaAnoZiton.mode = miscellanea_en_US_mlgs.misc.Mode2
 heAU.TaAnoZiton.notmetered = "N/M (In seeking the heights.)"
 heAU.TaAnoZiton.name = "In seeking the heights."
@@ -67,7 +67,7 @@ heAU.TaAnoZiton.incipit = "…"
 heAU.TaAnoZitontext = ""
 
 heAU.ToisMathitaisSynelthomen.greekname = ""
-heAU.ToisMathitaisSynelthomen.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.ToisMathitaisSynelthomen.melody = "Automelon."
 heAU.ToisMathitaisSynelthomen.mode = miscellanea_en_US_mlgs.misc.Mode2
 heAU.ToisMathitaisSynelthomen.notmetered = "N/M (Let us in faith.)"
 heAU.ToisMathitaisSynelthomen.name = "Let us in faith."
@@ -75,7 +75,7 @@ heAU.ToisMathitaisSynelthomen.incipit = "…"
 heAU.ToisMathitaisSynelthomentext = ""
 
 heAU.ToisTonAimatonSou.greekname = ""
-heAU.ToisTonAimatonSou.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.ToisTonAimatonSou.melody = "Automelon."
 heAU.ToisTonAimatonSou.mode = miscellanea_en_US_mlgs.misc.Mode2
 heAU.ToisTonAimatonSou.notmetered = "N/M (In the pools of your blood.)"
 heAU.ToisTonAimatonSou.name = "In the pools of your blood."
@@ -83,7 +83,7 @@ heAU.ToisTonAimatonSou.incipit = "…"
 heAU.ToisTonAimatonSoutext = ""
 
 heAU.TonMathitonOrontonSe.greekname = ""
-heAU.TonMathitonOrontonSe.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.TonMathitonOrontonSe.melody = "Automelon."
 heAU.TonMathitonOrontonSe.mode = miscellanea_en_US_mlgs.misc.Mode2
 heAU.TonMathitonOrontonSe.notmetered = "N/M (With the disciples.)"
 heAU.TonMathitonOrontonSe.name = "With the disciples."
@@ -91,7 +91,7 @@ heAU.TonMathitonOrontonSe.incipit = "…"
 heAU.TonMathitonOrontonSetext = ""
 
 heAU.TousAsfaleis.greekname = ""
-heAU.TousAsfaleis.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.TousAsfaleis.melody = "Automelon."
 heAU.TousAsfaleis.mode = miscellanea_en_US_mlgs.misc.Mode2
 heAU.TousAsfaleis.notmetered = "N/M (You have taken.)"
 heAU.TousAsfaleis.name = "You have taken."

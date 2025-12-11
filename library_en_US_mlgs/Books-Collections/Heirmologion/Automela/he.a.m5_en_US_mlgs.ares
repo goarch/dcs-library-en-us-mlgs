@@ -3,7 +3,7 @@ A_Resource_Whose_Name = he.a.m5_en_US_mlgs
 heAU.title = "Automela of Mode pl. 1"
 
 heAU.ChairoisAskitikon.greekname = ""
-heAU.ChairoisAskitikon.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.ChairoisAskitikon.melody = "Automelon."
 heAU.ChairoisAskitikon.mode = miscellanea_en_US_mlgs.misc.Mode5
 heAU.ChairoisAskitikon.notmetered = "N/M (Rejoice.)"
 heAU.ChairoisAskitikon.name = "Rejoice."
@@ -11,7 +11,7 @@ heAU.ChairoisAskitikon.incipit = "…"
 heAU.ChairoisAskitikontext = ""
 
 heAU.LampeiSimeron.greekname = ""
-heAU.LampeiSimeron.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.LampeiSimeron.melody = "Automelon."
 heAU.LampeiSimeron.mode = miscellanea_en_US_mlgs.misc.Mode5
 heAU.LampeiSimeron.notmetered = "N/M ()"
 heAU.LampeiSimeron.name = ""
@@ -19,7 +19,7 @@ heAU.LampeiSimeron.incipit = "…"
 heAU.LampeiSimerontext = ""
 
 heAU.OsiePater.greekname = ""
-heAU.OsiePater.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.OsiePater.melody = "Automelon."
 heAU.OsiePater.mode = miscellanea_en_US_mlgs.misc.Mode5
 heAU.OsiePater.notmetered = "N/M (Devout and God-bearing father.)"
 heAU.OsiePater.name = "Devout and God-bearing father."
@@ -27,7 +27,7 @@ heAU.OsiePater.incipit = "…"
 heAU.OsiePatertext = ""
 
 heAU.TonSynanarchonLogon.greekname = ""
-heAU.TonSynanarchonLogon.melody = miscellanea_en_US_mlgs.misc.Automelon
+heAU.TonSynanarchonLogon.melody = "Automelon."
 heAU.TonSynanarchonLogon.mode = miscellanea_en_US_mlgs.misc.Mode5
 heAU.TonSynanarchonLogon.notmetered = "N/M (Let us worship the Word.)"
 heAU.TonSynanarchonLogon.name = "Let us worship the Word."
